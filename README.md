@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenanceKADIO
-- 👀 I’m interested in Web Developpement
-- 🌱 I’m currently learning [Javascript][ReactJs]
+- 👀 I’m interested in Web Developpement, developer for office software
+- 🌱 I’m currently learning [Javascript][ReactJs][Python]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [venancek.pro@gmail.com]
 
